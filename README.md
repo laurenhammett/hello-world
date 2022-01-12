@@ -1,2 +1,3 @@
 # hello-world
-A lady in STEM
+A lady in STEM.
+I enjoy 🐈‍⬛, 🎵, and 🧠.
